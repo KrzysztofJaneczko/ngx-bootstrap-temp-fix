@@ -11,7 +11,7 @@ var BsDatepickerConfig = (function () {
          * Allows to hide week numbers in datepicker
          */
         this.showWeekNumbers = true;
-        this.dateInputFormat = 'L';
+        this.dateInputFormat = 'YYYY-MM-DD';
         // range picker
         this.rangeSeparator = ' - ';
         this.rangeInputFormat = 'L';
